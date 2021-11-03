@@ -23,9 +23,9 @@ requirements:
     - python >=3.6
     - ephem >=3.7.6.0
     - healpy >=1.14.0
-    - libstempo >=2.4.0
+    - libstempo >=2.4.3
     - numpy >=1.16.3
-    - pint-pulsar >=0.8.2
+    - pint-pulsar >=0.8.3
     - scikit-sparse >=0.4.5
     - scipy >=1.2.0
 
